@@ -1,2 +1,2 @@
 # quicksort
-quicksort in js
+A little CS practice in JavaScript.
